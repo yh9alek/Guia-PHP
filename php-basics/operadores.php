@@ -152,10 +152,10 @@ Incrementar o decrementar booleanos no tiene efecto. */
 
 # Operadores bit a bit
 
-// $x & $y  AND
-// $x | $y  OR
-// $x ^ $y  XOR
-// $x ~ $y  NOT
+// $x & $y  AND   Comparar si todas las secuencias de bits coinciden
+// $x | $y  OR    Fusionar ambas secuencias de bits
+// $x ^ $y  XOR   Comparar solo los bits que sean idénticos
+// $x ~ $y  NOT   Invertir toda la secuencia de bits
 
 # Operadores de desplazamiento de bits
 
