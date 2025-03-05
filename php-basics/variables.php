@@ -112,4 +112,3 @@ counter();  $count = 3
   $$x = 'Hello';
 
   echo $var;
-
